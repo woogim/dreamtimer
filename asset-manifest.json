@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dreamtimer/static/css/main.4f8592dc.css",
+    "main.js": "/dreamtimer/static/js/main.dbeb5a78.js",
+    "static/js/453.5f8995b0.chunk.js": "/dreamtimer/static/js/453.5f8995b0.chunk.js",
+    "index.html": "/dreamtimer/index.html",
+    "main.4f8592dc.css.map": "/dreamtimer/static/css/main.4f8592dc.css.map",
+    "main.dbeb5a78.js.map": "/dreamtimer/static/js/main.dbeb5a78.js.map",
+    "453.5f8995b0.chunk.js.map": "/dreamtimer/static/js/453.5f8995b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f8592dc.css",
+    "static/js/main.dbeb5a78.js"
+  ]
+}
