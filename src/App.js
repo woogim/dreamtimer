@@ -269,10 +269,10 @@ const DreamTimer = () => {
 
                 {isRunning && (
                   <div className="mb-4 text-center">
-                    <p className="font-medium text-gray-700">현재 꿈 저금통</p>
-                    <p className="text-xl text-blue-600">{currentDreamBank}</p>
-                    <p className="font-medium text-gray-700 mt-2">현재 꿈 조각</p>
-                    <p className="text-xl text-blue-600">{currentDreamPiece}</p>
+                    <span role="img" aria-label="piggy bank" className="text-3xl mr-2">🏦</span>
+                    <span className="text-xl text-gray-600">{currentDreamBank}</span><div></div>
+                    <span role="img" aria-label="puzzle piece" className="text-3xl mr-2">🧩</span>
+                    <span className="text-xl text-gray-600">{currentDreamPiece}</span>
                   </div>
                 )}
 
