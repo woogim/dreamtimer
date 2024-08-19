@@ -53,7 +53,7 @@ const DreamTimer = () => {
           return prevTime - 1;
         });
         setEarnedMoney((prevEarned) => prevEarned + hourlyRate / 3600);
-      }, 1000);
+      }, 1);
     }
     return () => clearInterval(interval);
   }, [isRunning, hourlyRate, currentStage]);
@@ -65,7 +65,7 @@ const DreamTimer = () => {
   };
 
   const handleStageComplete = () => {
-    if (currentStage < STAGES.length - 1) {
+    if (currentStage < STAGES.length) {
       setCurrentStage((prevStage) => prevStage + 1);
       setTime(STAGES[currentStage + 1] * 60);
     } else {
