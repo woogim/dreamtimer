@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dreamtimer/static/css/main.4fb745ae.css",
-    "main.js": "/dreamtimer/static/js/main.eb4ff8f7.js",
+    "main.css": "/dreamtimer/static/css/main.2d530bf7.css",
+    "main.js": "/dreamtimer/static/js/main.08debdf9.js",
     "static/js/453.5f8995b0.chunk.js": "/dreamtimer/static/js/453.5f8995b0.chunk.js",
     "index.html": "/dreamtimer/index.html",
-    "main.4fb745ae.css.map": "/dreamtimer/static/css/main.4fb745ae.css.map",
-    "main.eb4ff8f7.js.map": "/dreamtimer/static/js/main.eb4ff8f7.js.map",
+    "main.2d530bf7.css.map": "/dreamtimer/static/css/main.2d530bf7.css.map",
+    "main.08debdf9.js.map": "/dreamtimer/static/js/main.08debdf9.js.map",
     "453.5f8995b0.chunk.js.map": "/dreamtimer/static/js/453.5f8995b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fb745ae.css",
-    "static/js/main.eb4ff8f7.js"
+    "static/css/main.2d530bf7.css",
+    "static/js/main.08debdf9.js"
   ]
 }
