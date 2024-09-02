@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dreamtimer/static/css/main.a9a92307.css",
-    "main.js": "/dreamtimer/static/js/main.3246b144.js",
+    "main.js": "/dreamtimer/static/js/main.5cadeb7e.js",
     "static/js/453.5f8995b0.chunk.js": "/dreamtimer/static/js/453.5f8995b0.chunk.js",
     "index.html": "/dreamtimer/index.html",
     "main.a9a92307.css.map": "/dreamtimer/static/css/main.a9a92307.css.map",
-    "main.3246b144.js.map": "/dreamtimer/static/js/main.3246b144.js.map",
+    "main.5cadeb7e.js.map": "/dreamtimer/static/js/main.5cadeb7e.js.map",
     "453.5f8995b0.chunk.js.map": "/dreamtimer/static/js/453.5f8995b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9a92307.css",
-    "static/js/main.3246b144.js"
+    "static/js/main.5cadeb7e.js"
   ]
 }
